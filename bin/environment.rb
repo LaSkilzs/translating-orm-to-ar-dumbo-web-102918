@@ -1,6 +1,6 @@
 require 'bundler/setup'
 Bundler.require
-require 'rake'
+# require 'rake'
 require 'active_record'
 
 require_relative '../lib/dog'
